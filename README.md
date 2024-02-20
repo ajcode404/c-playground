@@ -1,2 +1,0 @@
-# c-playground
-c stuff
